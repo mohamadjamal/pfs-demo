@@ -23,6 +23,7 @@
 					<archive>
 						<manifestEntries>
 							<Function-Class>com.cognizant.tao.cloud.Greeting</Function-Class>
+							<Function-Class>com.cognizant.tao.cloud.Square</Function-Class>
 						</manifestEntries>
 					</archive>
 				</configuration>
