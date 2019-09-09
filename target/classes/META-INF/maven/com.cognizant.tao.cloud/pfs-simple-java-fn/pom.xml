@@ -22,7 +22,7 @@
 				<configuration>
 					<archive>
 						<manifestEntries>
-							<Function-Class>functions.Greeting</Function-Class>
+							<Function-Class>com.demo.tao.cloud.Greeting</Function-Class>
 						</manifestEntries>
 					</archive>
 				</configuration>
